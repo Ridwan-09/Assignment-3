@@ -8,7 +8,11 @@
     font-family: 'Poppins';
     font-weight: 300;
 }
-.feature-bike{
+.bike{
     width: 288px;
     height: 243px;
+}
+.card-img{
+    width: 149px;
+    height: 149px;
 }
