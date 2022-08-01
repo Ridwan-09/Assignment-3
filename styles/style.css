@@ -17,6 +17,13 @@
     height: 149px;
 }
 .card-txt{
-    color: #6C6C6C;
-    
+    color: #6C6C6C;   
+}
+.icons{
+    align-items: flex-start;
+    width: 130.07px;
+    height: 22.01px;   
+}
+.fa-solid{
+    color: orange;
 }
